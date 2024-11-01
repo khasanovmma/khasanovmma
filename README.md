@@ -28,15 +28,12 @@
 - Изучение новых технологий и подходов в Python.
 - Автоматизация процессов и создание новых полезных инструментов.
 
-### 🏆 Достижения
+<!-- ### 🏆 Достижения
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI5l8Tzsb7skT8Y/giphy.gif" width="300" />
-</p>x
+</p>x -->
 
 ### 📫 Контакты
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khasanovmma)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khasanovmma010@gmail.com)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif" width="500"/>
-</p>
