@@ -28,10 +28,10 @@
 - Изучение новых технологий и подходов в Python.
 - Автоматизация процессов и создание новых полезных инструментов.
 
-<!-- ### 🏆 Достижения
+### 🏆 Достижения
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI5l8Tzsb7skT8Y/giphy.gif" width="300" />
-</p>x -->
+ ![Codewars Badge](https://www.codewars.com/users/Khasanov/badges/large)
+</p>
 
 ### 📫 Контакты
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khasanovmma)
