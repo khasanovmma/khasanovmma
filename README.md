@@ -29,9 +29,8 @@
 - Автоматизация процессов и создание новых полезных инструментов.
 
 ### 🏆 Достижения
-<p align="center">
- ![Codewars Badge](https://www.codewars.com/users/Khasanov/badges/large)
-</p>
+![Codewars](https://github.r2v.ch/codewars?user=Khasanov&top_languages=true)
+
 
 ### 📫 Контакты
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khasanovmma)
