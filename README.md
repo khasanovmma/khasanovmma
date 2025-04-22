@@ -30,7 +30,6 @@
 
 ### 🏆 Достижения
 ![Codewars](https://github.r2v.ch/codewars?user=Khasanov&top_languages=true)
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/khasanovmma010)
 
 
 ### 📫 Контакты
