@@ -4,7 +4,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Я — Python-разработчик с 2-летним опытом работы, специализируюсь на бэкенд-разработке и создаю надёжные, производительные веб-приложения. 
+Я — Python-разработчик с 4-летним опытом работы, специализируюсь на бэкенд-разработке и создаю надёжные, производительные веб-приложения. 
 
 <p align="center">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="300"/>
